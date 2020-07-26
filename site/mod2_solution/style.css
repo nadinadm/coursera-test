@@ -23,18 +23,22 @@ body{
   font-variant: small-caps;
   
 }
+
 #title1{
   background-color: #e09f3e;
   color: #540b0e;
 }
+
 #title2{
   background-color:  #540b0e;
   color: #fff3b0;
 }
+
 #title3{
   background-color: #9e2a2b;
   color: #fff3b0;
 }
+
 div > div {
   height: 180px;
   overflow: auto;
@@ -42,13 +46,12 @@ div > div {
   margin:10px;
   background-color: #e8eddf; 
 }
+
 div > p {
-  text-align: justify;
   clear: right;
   padding: 15px;
-
-
 }
+
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
