@@ -33,7 +33,7 @@ div #Brand-title{
 }
 #nav-list a {
   color: black;
-  text-align: center;
+  font-size: 1.5em;
 }
 #nav-list a:hover {
   background: white;
